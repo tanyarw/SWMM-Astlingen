@@ -281,13 +281,13 @@ Tank6                       5          120
 [TIMESERIES]
 ;;Name           Date       Time       Value     
 ;;-------------- ---------- ---------- ----------
-rain1            FILE "C:\scc\scc\posdoc\DTU\closed-loop Astlingen\20190813\rainfall\1Astlingen_Erft1.txt"
+rain1            FILE "data/SWMM-Astlingen/1Astlingen_Erft1.txt"
 ;
-rain2            FILE "C:\scc\scc\posdoc\DTU\closed-loop Astlingen\20190813\rainfall\2Astlingen_Erft2.txt"
+rain2            FILE "data/SWMM-Astlingen/2Astlingen_Erft2.txt"
 ;
-rain3            FILE "C:\scc\scc\posdoc\DTU\closed-loop Astlingen\20190813\rainfall\3Astlingen_Erft3.txt"
+rain3            FILE "data/SWMM-Astlingen/3Astlingen_Erft3.txt"
 ;
-rain4            FILE "C:\scc\scc\posdoc\DTU\closed-loop Astlingen\20190813\rainfall\4Astlingen_Erft4.txt"
+rain4            FILE "data/SWMM-Astlingen/4Astlingen_Erft4.txt"
 
 [PATTERNS]
 ;;Name           Type       Multipliers
